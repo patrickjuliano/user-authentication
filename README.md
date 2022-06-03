@@ -9,7 +9,7 @@ A demo of the user authentication system I developed for personal use.
 ## Seed
 1. Username: pjuliano  
    Password: patpat123
-2. Username: JDUsername  
-   Password: JDPassword
+2. Username: MyUsername  
+   Password: MyPassword
 3. Username: spelunker08  
    Password: i_hate_snakes
