@@ -16,7 +16,7 @@ async function main() {
         console.log(e);
     }
     try {
-        user2 = await users.createUser("John", "Doe", "JDUsername", "JDPassword", "jd2001@yahoo.com");
+        user2 = await users.createUser("John", "Doe", "MyUsername", "MyPassword", "jd2001@yahoo.com");
     } catch(e) {
         console.log(e);
     }
